@@ -73,6 +73,7 @@ A curated collection of free PDF resources covering Python, Artificial Intellige
 | 2 | Deep Learning Methods of Mathematical Physics: Volume I | [View Resource](https://www.clcoding.com/2026/07/deep-learning-methods-of-mathematical.html) |
 | 3 | Linear Algebra Done Right | — |
 | 4 | Mathematics of Deep Learning: An Introduction | [View Resource](https://www.clcoding.com/2026/08/mathematics-of-deep-learning.html) |
+| 5 | Mathematical Methods in Data Science: Bridging Theory and Applications with Python | [View Resource](https://www.clcoding.com/2026/08/mathematical-methods-in-data-science.html) |
 
 ---
 
